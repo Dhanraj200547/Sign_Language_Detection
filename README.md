@@ -17,6 +17,7 @@ Downloaded using `kagglehub` in Colab.
 
 ## 📊 Accuracy
 
+- accuracy: 0.9955 - loss: 0.0176 - val_accuracy: 0.8018 - val_loss: 3.7273
 - Training samples: 178,472
 - Validation samples: 44,602
 - 29 classes detected
